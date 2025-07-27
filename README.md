@@ -10,6 +10,9 @@
 - ⚙️ **Infra & Tech:** `Docker` `Flask` `Spring Boot` `Azure` `MongoDB` `Unix CLI` `PowerShell`
 - 💬 **Let's chat about**: ML, Deep Learning, Agentic AI, Recommender Systems, GenAI, MLOps, Full‑Stack Apps, projects/work/research opportunities
 
+\
+![Profile Views](https://github-profile-counter.vercel.app/api/badge)
+
 ---
 ### Contact Me :)
 - 📧 Send me an email: trivedibhavya23@gmail.com
