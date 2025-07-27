@@ -11,7 +11,7 @@
 - 💬 **Let's chat about**: ML, Deep Learning, Agentic AI, Recommender Systems, GenAI, MLOps, Full‑Stack Apps, projects/work/research opportunities
 
 \
-![Profile Views](https://github-profile-counter.vercel.app/api/badge)
+![Profile Views](https://github-profile-counter.vercel.app/api/badge?v=2)
 
 ---
 ### Contact Me :)
