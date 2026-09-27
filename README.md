@@ -15,9 +15,7 @@
 
 ---
 ### Contact Me :)
-- 📧 Send me an email: trivedibhavya23@gmail.com
 - 🔗 Connect with me on <a href="https://www.linkedin.com/in/trivedibhavya/">LinkedIn</a>
-- 🏠 Visit my <a href="https://bit.ly/bhavya-portfolio">Personal Website </a> to learn more!
 
 <!--
 **bh1090/bh1090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
